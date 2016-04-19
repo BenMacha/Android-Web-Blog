@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Ben Macha</string>
+    <string name="app_email">contact@benmacha.tn</string>
+    <string name="title_activity_home">Ben Macha Blog</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="title_activity_htmlactiv">htmlactiv</string>
+
+    <string name="title_activity_fullscreen">FullscreenActivity</string>
+    <string name="title_activity_test">TestActivity</string>
+</resources>
